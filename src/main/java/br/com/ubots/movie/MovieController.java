@@ -1,5 +1,6 @@
 package br.com.ubots.movie;
 
+import io.swagger.annotations.Api;
 import java.net.URI;
 import java.util.List;
 
