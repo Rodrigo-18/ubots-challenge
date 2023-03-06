@@ -9,4 +9,4 @@ avaliado;
 - Enviar o link do Github com a solução;
 
 ### Lista de endpoints
-Acessar o Swagger na URL http://localhost:8080/swagger-ui.html para detalhes sobre a a api
+Acessar o Swagger na URL http://localhost:8080/swagger-ui.html para detalhes sobre os endpoints da api
